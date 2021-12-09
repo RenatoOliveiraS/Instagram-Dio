@@ -4,7 +4,7 @@ Nesse desafio vamos reacriar a página inicial do Instagram com alguns toques pe
 
 
 Obs: Não achei nenhuma imagem completa do celular, então tive que montar. Queria fazer carrossel, porem, deixa para a proxima. kkkk 
-Obs:Como queria alterar o logo, preferi achar uma fonte parecida com a do instagram e motifiquei. 
+Obs:Como queria alterar o logo, preferi achar uma fonte parecida com a do instagram e modifiquei. 
 
 
 ## Materiais de estudo:
